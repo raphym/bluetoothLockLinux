@@ -9,5 +9,5 @@ Your computer will unlock when it will detect the bluetooth of your phone.
 The first loading of the application is to register your phone to your computer.
 The next loadings of the application will lock or unlock your computer according to the situation.
 
-You can change remove the pairing by clicking on the button Reset Software it will reset the application settings.
+You can remove the pairing by clicking on the button Reset Software it will reset the application settings.
 
